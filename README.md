@@ -2,7 +2,7 @@
 
 To import a wordpress users to Yii2 just do this:
 1. import all the data, that you need, to User table in your database.
-2. You can have there Yii2 or WordPress hashes for passwords
+2. You can have there Yii2 or/and WordPress hashes for passwords
 3. Replace vendor/yiisoft/yii2/base/Security.php with the file from this repo.
 
 What the file does:
