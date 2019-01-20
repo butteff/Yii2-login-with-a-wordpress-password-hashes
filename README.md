@@ -6,5 +6,5 @@ To import a wordpress users to Yii2 just do this:
 3. Replace vendor/yiisoft/yii2/base/Security.php with the file from this repo.
 
 What the file does:
-instead of exceprion of invalid hash it starts to use a wordpress functions for another one password validation.
+instead of exception of invalid hash it starts to use a wordpress functions for another one password validation.
 It all is still secure. Enjoy.
